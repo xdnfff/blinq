@@ -43,7 +43,7 @@ body {
 }
 
 .hero__wrapper {
-  background: url(/images/Bg-svg.svg);
+  background: url(./images/Bg-svg.svg);
   min-height: 100vh;
   background-size: auto;
   background-repeat: no-repeat;
@@ -314,10 +314,10 @@ body {
   max-width: 720px;
 }
 .safe__wrapper {
-  background-image: url(/images/white-bg.svg);
+  background-image: url(./images/white-bg.svg);
 }
 .what__wrapper {
-  background-image: url(/images/what-bg.svg);
+  background-image: url(./images/what-bg.svg);
   min-height: 100vh;
   background-size: auto;
   background-repeat: no-repeat;
@@ -596,7 +596,7 @@ body {
     transform: translateY(0%);
   }
   .hero__wrapper {
-    background: url(/images/bg-media.svg);
+    background: url(./images/bg-media.svg);
     min-height: 100vh;
     background-size: contain;
     background-repeat: no-repeat;

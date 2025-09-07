@@ -567,6 +567,15 @@ body {
 .header__nav.open_nav .header__nav-button span {
   background-color: #fff;
 }
+.safe__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+.safe__content img {
+  max-width: 600px;
+}
 
 @media (max-width: 430px) {
   .hero__wrapper {

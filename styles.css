@@ -695,7 +695,7 @@ body {
     order: 1;
   }
   .safe img {
-    max-width: 430px;
+    max-width: 100%;
     margin-top: 40px;
   }
   .safe.credit__title {
